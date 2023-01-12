@@ -26,6 +26,6 @@ Laboratorio Nro 6 TEMA: TEOREMA DE LA MÁXIMA TRANSFERENCIA DE POTENCIA.
 
 • Establecer la relación entre la resistencia de fuente y la resistencia de carga en el circuito de la práctica para que reciba la máxima potencia de la fuente de corriente continua.
 6.3 MARCO TEORICO
-![image](https://user-images.githubusercontent.com/104911658/212157491-1566d161-e38f-41ae-89b8-34ed26004f9e.png)
+![image](https://user-images.githubusercontent.com/104911658/212157951-a5a0343d-a3be-4bd2-95a4-acdd195fd611.png)
 
 ![image](https://user-images.githubusercontent.com/104911658/212155951-eb094f1c-990c-40f7-bce1-df33fcec3d26.png)
