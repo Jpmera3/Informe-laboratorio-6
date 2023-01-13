@@ -122,6 +122,13 @@ VIDEO
 
 CONCLUSIONES
 
+• Como conclusión luego de la práctica fiable podemos concluir que, si el valor de la resistencia de carga es igual a la resistencia de fuente se obtiene la mayor transferencia de energía. En la aplicación la resistencia de la fuente, Rs es la resistencia equivalente oresistencia de Thevenin.
+
+• Tanto la resistencia de carga como la fuente absorbida por la potencia total suministrada por una fuente como V_TH.
+
+• En base a lo experimental y calculado se logro demostrar que para valores muy aproximados a la resistencia interna (1.2 kohm) se puede llegar a obtener el valor de la potencia maxima asi mismo para los valores que van desde la cantidad mas baja hacia la cantidad mas aproximada a la resistencia interna la potencia tiende a crecer y si la resistencia es mayor a la interna la potencia empieza a descender.
+
+• De acuerdo a los resultados obtenidos de manera analítica y práctica se pudo evidenciar un porcentaje de error mínimo para ciertas resistencias, ya que es por la aproximación de los resultados calculados.
 
 BIBLIOGRAFÍA
 
