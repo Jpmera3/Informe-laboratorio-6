@@ -30,30 +30,53 @@ Laboratorio Nro 6 TEMA: TEOREMA DE LA MÁXIMA TRANSFERENCIA DE POTENCIA.
 
 ![image](https://user-images.githubusercontent.com/104911658/212155951-eb094f1c-990c-40f7-bce1-df33fcec3d26.png)
 
-6.5. PROCEDIMIENTO
+6.4.	MATERIAL Y EQUIPO REQUERIDO
 
-6.5.1. Arme el circuito que se muestra en la figura 6.1.
+![(1729)](https://user-images.githubusercontent.com/117534483/212232909-83c02802-adcd-46e0-9ded-e91bc50547e3.png)
 
-![image](https://user-images.githubusercontent.com/107088999/212215128-05843fe8-fba7-4bb4-a9ce-3717fac48f5e.png)
+6.4. PROCEDIMIENTO
 
-6.5.2. Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1.
+6.4.1. Arme el circuito que se muestra en la figura 6.1.
+
+![(1730)](https://user-images.githubusercontent.com/117534483/212232937-6e82cfd5-94f2-4072-8436-cb39da79141c.png)
+
+6.4.2. Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1.
 Anote los resultados medidos.
 
-RESISTENCIA 220
+6.4.3.	Calcule la potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 6.1.
+
+6.4.4.	Mida la potencia empleando un vatímetro en el software ACDCLAB en RL y anote los resultados en la tabla 6.1.
+Anote los resultados medidos.
+
+Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
 
-RESISTENCIA 470
+
+6.4.5.	¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
+
+6.4.6.	¿Cuál fue la potencia máxima en RL? 	
+               Watts
+
+6.5.7.	¿Para qué valor de RL se obtiene la MTP? 	 
+               Ω
+6.5.8.	Grafique la curva Potencia vs RL y comente.
 
 
 
-RESISTENCIA 680
-RESISTENCIA 820
-RESISTENCIA 1000
-RESISTENCIA 1500
-RESISTENCIA 1800
-RESISTENCIA 2200
-RESISTENCIA 3900
-RESISTENCIA 4700
+Calcular errores de las mediciones y comentar los resultados.
+
+
+VIDEO
+
+
+CONCLUSIONES
+
+
+BIBLIOGRAFÍA
+
+*  Floyd (8va Ed)(2007). Principios de circuitos electricos. Pearson Education
+
+
 
 
 
