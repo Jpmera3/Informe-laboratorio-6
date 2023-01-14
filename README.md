@@ -74,6 +74,9 @@ Corriente.-
 
 ![image](https://user-images.githubusercontent.com/107088999/212336390-ed156a69-7736-464f-b165-d797fd379a1d.png)
 
+Formula MTP y datos a utilizar en el Circuito Experimental:
+
+![For MTP](https://user-images.githubusercontent.com/117534483/212456670-6a56372b-c631-4493-b18e-a7d7bbd59738.png)
 
 6.4.4.	Mida la potencia empleando un vatímetro en el software ACDCLAB en RL y anote los resultados en la tabla 6.1.
 
@@ -122,20 +125,24 @@ Anote los resultados medidos.
 
 Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
+Tabla de datos obtenidos del Circuito Experimental:
 
+![Tabl Expe](https://user-images.githubusercontent.com/117534483/212456828-cbaf5f03-dfae-476f-953f-c01f9765fc1c.png)
 
-6.4.5.	¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
+7.1.	¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
 
-6.4.6.	¿Cuál fue la potencia máxima en RL? 	
-               Watts
+*  R: Si se cumple ya que con los datos obtenidos nos podemos var cuenta que el valor de esta resistenci es igual a la resistencia interna de la fuente.
 
-6.5.7.	¿Para qué valor de RL se obtiene la MTP? 	 
+7.2.	¿Cuál fue la potencia máxima en RL? 	
+*  R: 0.00557 W(Watts) o 5.57 mW(miliWatts)
+
+7.3.	¿Para qué valor de RL se obtiene la MTP? 	 
                
-R: La maxima transferencia de potencia se obtiene en el momento que la resistencia de carga tiene un valor de 1000Ω
+*  R: La maxima transferencia de potencia se obtiene en el momento que la resistencia de carga tiene un valor de 1000Ω
 
-6.5.8.	Grafique la curva Potencia vs RL y comente.
+8.4.	Grafique la curva Potencia vs RL y comente.
 
-
+![Curva_P vs RL](https://user-images.githubusercontent.com/117534483/212457004-269efc1c-7768-4cbc-855f-072ec8de98d8.png)
 
 Calcular errores de las mediciones y comentar los resultados.
 
