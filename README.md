@@ -42,9 +42,33 @@ Laboratorio Nro 6 TEMA: TEOREMA DE LA MÁXIMA TRANSFERENCIA DE POTENCIA.
 
 ![111](https://user-images.githubusercontent.com/107088999/212328114-6b149d0b-5054-4bb4-b8bc-84f924fa52ca.png)
 
+Circuito Experimental:
+
+![IMG_20230113_103056](https://user-images.githubusercontent.com/117534483/212453220-3b6dc331-78df-4a89-b7e2-707886972ebe.jpg)
+
+-Valor de la fuente de voltaje:
+
+![IMG_20230113_103155](https://user-images.githubusercontent.com/117534483/212453682-11a74bfa-a7ad-4232-8906-432d3378feae.jpg)
 
 6.4.2. Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1.
 Anote los resultados medidos.
+
+
+Circuito Experimental:
+
+Forma que se empleara para medir el Voltaje y la corriente para cada valor RL 
+
+RL.-
+
+![IMG_20230113_103239](https://user-images.githubusercontent.com/117534483/212454735-c86e19f4-3a10-4445-8bdf-94aa6eda8fa7.jpg)
+
+Voltaje.-
+
+![IMG_20230113_103239](https://user-images.githubusercontent.com/117534483/212454973-de0603be-e2ab-4219-913a-c504725a59de.jpg)
+
+Corriente.-
+
+![IMG_20230113_103458](https://user-images.githubusercontent.com/117534483/212455405-51fe2b17-79bd-41d7-899a-8ee81004700a.jpg)
 
 6.4.3.	Calcule la potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 6.1.
 
