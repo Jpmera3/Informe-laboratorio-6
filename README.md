@@ -125,20 +125,27 @@ Anote los resultados medidos.
 
 Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
+----------
+
+
+
+
+
+
 Tabla de datos obtenidos del Circuito Experimental:
 
 ![Tabl Expe](https://user-images.githubusercontent.com/117534483/212456828-cbaf5f03-dfae-476f-953f-c01f9765fc1c.png)
 
 7.1.	¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
 
-*  R: Si se cumple ya que con los datos obtenidos nos podemos var cuenta que el valor de esta resistenci es igual a la resistencia interna de la fuente.
+*  R: Si se cumple ya que con los datos obtenidos nos podemos dar cuenta que el valor de esta resistencia es igual a la resistencia interna de la fuente.
 
 7.2.	¿Cuál fue la potencia máxima en RL? 	
 *  R: 0.00557 W(Watts) o 5.57 mW(miliWatts)
 
 7.3.	¿Para qué valor de RL se obtiene la MTP? 	 
                
-*  R: La maxima transferencia de potencia se obtiene en el momento que la resistencia de carga tiene un valor de 1000Ω
+*  R: La maxima transferencia de potencia(MTP) se obtiene en el momento que la resistencia de carga tiene un valor de 1000Ω
 
 8.4.	Grafique la curva Potencia vs RL y comente.
 
