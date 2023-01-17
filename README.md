@@ -148,7 +148,7 @@ Tabla de datos obtenidos del Circuito Experimental:
 
 Calcular errores de las mediciones y comentar los resultados.
 
-
+![(1756)](https://user-images.githubusercontent.com/117534483/212960066-df073675-1d5f-4ac0-8c3c-d3db596714d6.png)
 
 VIDEO
 
