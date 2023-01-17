@@ -152,6 +152,7 @@ Calcular errores de las mediciones y comentar los resultados.
 
 VIDEO
 
+https://youtu.be/ObalXA-CgCQ
 
 CONCLUSIONES
 
