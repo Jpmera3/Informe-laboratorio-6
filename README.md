@@ -125,12 +125,7 @@ Anote los resultados medidos.
 
 Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
-----------
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/107088999/212939705-c5de814e-4555-4882-8219-cb8e1ec1aad6.png)
 
 Tabla de datos obtenidos del Circuito Experimental:
 
